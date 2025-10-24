@@ -1,0 +1,210 @@
+{
+  "questions": [
+    {
+      "question": "Bonjour",
+      "reponse": "Bonjour ! 👋 Je suis ravi de vous accueillir sur notre boutique en ligne. Comment puis-je vous aider aujourd'hui ? Que ce soit pour passer une commande, suivre une livraison ou découvrir nos produits, je suis là pour vous !",
+      "tags": [
+        "salutation",
+        "accueil"
+      ]
+    },
+    {
+      "question": "Ça va ?",
+      "reponse": "Je vais très bien, merci de demander ! 😊 Je suis toujours prêt à vous aider avec vos achats. Et vous, comment allez-vous ? Que puis-je faire pour rendre votre expérience shopping plus agréable aujourd'hui ?",
+      "tags": [
+        "politesse",
+        "conversation"
+      ]
+    },
+    {
+      "question": "Merci",
+      "reponse": "De rien, c'est avec grand plaisir ! 🌟 N'hésitez surtout pas si vous avez d'autres questions. Je suis là pour vous accompagner tout au long de votre expérience d'achat. Passez une excellente journée !",
+      "tags": [
+        "remerciement",
+        "politesse"
+      ]
+    },
+    {
+      "question": "Bonsoir",
+      "reponse": "Bonsoir ! 🌙 Bienvenue sur notre boutique en ligne. Même en soirée, je suis disponible pour vous aider. Que recherchez-vous ce soir ?",
+      "tags": [
+        "salutation",
+        "accueil"
+      ]
+    },
+    {
+      "question": "Comment passer une commande ?",
+      "reponse": "Passer commande est très simple ! 🛒 Voici les étapes :\n\n1. **Parcourez** notre catalogue et ajoutez vos produits préférés au panier\n2. **Cliquez** sur l'icône panier en haut à droite\n3. **Vérifiez** votre commande et cliquez sur 'Passer la commande'\n4. **Connectez-vous** ou créez un compte (c'est rapide !)\n5. **Entrez** votre adresse de livraison\n6. **Choisissez** votre mode de paiement\n7. **Validez** et c'est terminé !\n\nVous recevrez immédiatement un email de confirmation. Besoin d'aide à une étape particulière ?",
+      "tags": [
+        "commande",
+        "achat",
+        "panier"
+      ]
+    },
+    {
+      "question": "Puis-je modifier ma commande ?",
+      "reponse": "Oui, mais il faut être rapide ! ⚡ Vous pouvez modifier votre commande dans les 2 heures suivant sa validation, tant qu'elle n'est pas en préparation. Connectez-vous à votre compte, allez dans 'Mes commandes' et cliquez sur 'Modifier'. Au-delà de ce délai, contactez-nous au 05 22 XX XX XX, nous ferons notre maximum pour vous aider !",
+      "tags": [
+        "commande",
+        "modification"
+      ]
+    },
+    {
+      "question": "Comment annuler ma commande ?",
+      "reponse": "Pour annuler une commande : ❌\n\n- **Avant expédition** : Connectez-vous, allez dans 'Mes commandes' et cliquez sur 'Annuler'. Le remboursement est automatique sous 3-5 jours.\n- **Après expédition** : Vous devrez refuser le colis à la livraison ou nous le retourner (frais de retour gratuits).\n\nPour toute urgence, appelez-nous au 05 22 XX XX XX.",
+      "tags": [
+        "commande",
+        "annulation"
+      ]
+    },
+    {
+      "question": "Quels sont les délais de livraison ?",
+      "reponse": "Nos délais de livraison dépendent de votre ville : 📦\n\n🏙️ **Casablanca, Rabat, Marrakech** : 24-48h\n🌆 **Autres grandes villes** : 2-4 jours\n🏘️ **Zones rurales** : 3-6 jours\n\n✨ **Livraison Express disponible** : Recevez votre commande en moins de 24h pour seulement 30 DH supplémentaires (disponible dans les grandes villes).\n\nVous êtes informé par SMS à chaque étape !",
+      "tags": [
+        "livraison",
+        "délai",
+        "expédition"
+      ]
+    },
+    {
+      "question": "Comment suivre ma commande ?",
+      "reponse": "Suivre votre commande est super facile ! 📍\n\n1. Connectez-vous à votre compte\n2. Cliquez sur 'Mes commandes'\n3. Sélectionnez la commande à suivre\n4. Vous verrez le statut en temps réel : préparation, expédition, en route, livré\n\nVous recevrez aussi des SMS automatiques à chaque changement de statut. Vous avez aussi un lien de suivi dans l'email de confirmation !",
+      "tags": [
+        "livraison",
+        "suivi",
+        "tracking"
+      ]
+    },
+    {
+      "question": "Les frais de livraison sont de combien ?",
+      "reponse": "Nos frais de livraison sont très compétitifs ! 💰\n\n- **GRATUIT** pour toute commande de plus de 300 DH 🎉\n- **49 DH** pour les commandes inférieures à 300 DH\n- **Livraison Express** : +30 DH (livrée en moins de 24h)\n\nPetite astuce : ajoutez quelques articles pour atteindre 300 DH et profitez de la livraison gratuite !",
+      "tags": [
+        "livraison",
+        "frais",
+        "prix"
+      ]
+    },
+    {
+      "question": "Livrez-vous partout au Maroc ?",
+      "reponse": "Oui, nous livrons dans tout le Maroc ! 🇲🇦\n\nDes grandes villes (Casablanca, Rabat, Tanger, Fès, Marrakech...) aux petites communes, nous couvrons l'ensemble du territoire national. Les délais varient selon votre localisation, mais nous faisons toujours au plus vite !",
+      "tags": [
+        "livraison",
+        "zone",
+        "maroc"
+      ]
+    },
+    {
+      "question": "Quels modes de paiement acceptez-vous ?",
+      "reponse": "Nous acceptons plusieurs modes de paiement pour votre confort : 💳\n\n✅ **Paiement à la livraison (Cash)** - Le plus populaire !\n✅ **Carte bancaire** (Visa, Mastercard, CMI)\n✅ **Virement bancaire**\n✅ **PayPal**\n✅ **Mobile Money** (Orange Money, Maroc Telecom Cash)\n\nTous nos paiements en ligne sont 100% sécurisés avec cryptage SSL. Vos données sont protégées !",
+      "tags": [
+        "paiement",
+        "carte",
+        "cash"
+      ]
+    },
+    {
+      "question": "Le paiement en ligne est-il sécurisé ?",
+      "reponse": "Absolument ! 🔒 Votre sécurité est notre priorité :\n\n- Cryptage SSL 256 bits (niveau bancaire)\n- Conformité PCI-DSS\n- Aucune conservation de vos données bancaires\n- Protocole 3D Secure pour les cartes\n- Certificat de sécurité vérifié\n\nVous pouvez payer en toute confiance. Des millions de transactions sont effectuées chaque année sur notre plateforme !",
+      "tags": [
+        "paiement",
+        "sécurité"
+      ]
+    },
+    {
+      "question": "Puis-je retourner un produit ?",
+      "reponse": "Oui, nous avons une politique de retour généreuse ! 🔄\n\n- **14 jours** pour retourner tout produit qui ne vous convient pas\n- Produit non utilisé, dans son emballage d'origine\n- **Retour GRATUIT** (nous envoyons un livreur le récupérer)\n- Remboursement sous 5-7 jours ouvrables\n\nPour initier un retour : Mon compte > Mes commandes > Demander un retour. Simple et rapide !",
+      "tags": [
+        "retour",
+        "remboursement",
+        "satisfaction"
+      ]
+    },
+    {
+      "question": "Comment obtenir un remboursement ?",
+      "reponse": "Le processus de remboursement est transparent : 💵\n\n1. Demandez un retour depuis votre compte\n2. Nous récupérons le produit gratuitement\n3. Vérification du produit (sous 48h)\n4. Remboursement automatique :\n   - **Carte bancaire** : 3-5 jours ouvrables\n   - **Paiement à la livraison** : virement bancaire sous 5-7 jours\n\nVous recevez des notifications à chaque étape !",
+      "tags": [
+        "remboursement",
+        "retour"
+      ]
+    },
+    {
+      "question": "Comment trouver un produit ?",
+      "reponse": "Plusieurs façons de trouver votre bonheur ! 🔍\n\n1. **Barre de recherche** en haut : tapez le nom ou mot-clé\n2. **Catégories** dans le menu : parcourez par type de produit\n3. **Filtres** : prix, marque, couleur, taille, note...\n4. **Meilleures ventes** et **Nouveautés** sur la page d'accueil\n\nConseil : utilisez des mots simples dans la recherche pour de meilleurs résultats !",
+      "tags": [
+        "produit",
+        "recherche",
+        "catalogue"
+      ]
+    },
+    {
+      "question": "Les produits sont-ils authentiques ?",
+      "reponse": "100% authentiques, garanti ! ✨\n\nNous travaillons directement avec :\n- Les marques officielles\n- Des distributeurs agréés\n- Des fournisseurs certifiés\n\nChaque produit est vérifié avant expédition. Nous ne vendons JAMAIS de contrefaçons. Votre satisfaction et votre confiance sont essentielles pour nous !",
+      "tags": [
+        "produit",
+        "authenticité",
+        "qualité"
+      ]
+    },
+    {
+      "question": "Proposez-vous des promotions ?",
+      "reponse": "Oui, régulièrement ! 🎁\n\n- **Soldes saisonnières** : jusqu'à -70%\n- **Flash Sales** : chaque semaine de nouvelles offres\n- **Code promo** : pour les nouveaux clients\n- **Programme fidélité** : gagnez des points à chaque achat\n- **Newsletter** : -10% sur votre première commande\n\nInscrivez-vous à notre newsletter pour ne rien manquer !",
+      "tags": [
+        "promotion",
+        "réduction",
+        "soldes"
+      ]
+    },
+    {
+      "question": "Comment créer un compte ?",
+      "reponse": "Créer un compte est rapide et gratuit ! 👤\n\n1. Cliquez sur 'Connexion' en haut à droite\n2. Sélectionnez 'Créer un compte'\n3. Remplissez : email, mot de passe, nom\n4. Validez votre email\n5. C'est fait !\n\n**Avantages** : suivi de commandes, wishlist, adresses enregistrées, offres exclusives, points fidélité !",
+      "tags": [
+        "compte",
+        "inscription"
+      ]
+    },
+    {
+      "question": "Comment vous contacter ?",
+      "reponse": "Nous sommes là pour vous ! 📞\n\n- **Téléphone** : 05 22 XX XX XX (Lun-Sam, 9h-19h)\n- **WhatsApp** : 06 XX XX XX XX (réponse rapide !)\n- **Email** : contact@votremarque.ma\n- **Chat en ligne** : disponible sur le site\n- **Réseaux sociaux** : Facebook, Instagram, Twitter\n\nTemps de réponse moyen : moins de 2 heures ! Nous parlons Français, Arabe et Darija.",
+      "tags": [
+        "contact",
+        "service client",
+        "assistance"
+      ]
+    },
+    {
+      "question": "Quels sont vos horaires ?",
+      "reponse": "Nous sommes disponibles presque tout le temps ! ⏰\n\n**Service client** :\n- Lundi - Samedi : 9h00 - 19h00\n- Dimanche : 10h00 - 16h00\n\n**Site web** : accessible 24h/24, 7j/7 pour commander\n**Chat en ligne** : actif pendant les horaires du service client\n\nCommandez quand vous voulez, on s'occupe du reste !",
+      "tags": [
+        "horaires",
+        "disponibilité"
+      ]
+    },
+    {
+      "question": "Quelle taille choisir ?",
+      "reponse": "Pour choisir la bonne taille : 📏\n\n1. Consultez notre **guide des tailles** sur chaque fiche produit\n2. Prenez vos **mensurations** (tour de poitrine, taille, hanches)\n3. Comparez avec notre tableau\n4. En cas de doute, prenez la **taille au-dessus**\n5. Lisez les **avis clients** : ils indiquent souvent si le produit taille grand/petit\n\nRetour gratuit si la taille ne convient pas !",
+      "tags": [
+        "taille",
+        "vêtements",
+        "mesures"
+      ]
+    },
+    {
+      "question": "Les couleurs sont-elles fidèles aux photos ?",
+      "reponse": "Nous faisons de notre mieux pour une représentation fidèle ! 📸\n\nNos photos sont professionnelles, mais les couleurs peuvent légèrement varier selon :\n- Votre écran\n- Les réglages de luminosité\n- L'éclairage ambiant\n\nConsultez les avis clients avec photos réelles pour vous faire une meilleure idée. Si la couleur ne vous convient pas, retour gratuit sous 14 jours !",
+      "tags": [
+        "produit",
+        "couleur",
+        "photo"
+      ]
+    },
+    {
+      "question": "Les produits sont-ils garantis ?",
+      "reponse": "Oui, tous nos produits sont garantis ! 🛡️\n\n- **Garantie légale** : 2 ans minimum\n- **Garantie constructeur** : selon la marque (1-3 ans)\n- **Garantie satisfait ou remboursé** : 14 jours\n\nEn cas de problème, contactez notre SAV avec votre numéro de commande. Nous gérons tout : réparation, échange ou remboursement selon le cas !",
+      "tags": [
+        "garantie",
+        "SAV",
+        "après-vente"
+      ]
+    }
+  ]
+}
