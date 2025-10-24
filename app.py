@@ -489,10 +489,7 @@ def main():
     
     # Header
     st.markdown("""
-    <div class="chat-header">
-        <h1>🛍️ ShopMart Assistant</h1>
-        <p>Votre assistant shopping personnel disponible 24/7</p>
-    </div>
+    
     """, unsafe_allow_html=True)
     
     # Sidebar
@@ -568,7 +565,7 @@ def main():
     chat_container = st.container()
     
     with chat_container:
-        st.markdown('<div class="chat-container">', unsafe_allow_html=True)
+        st.markdown('', unsafe_allow_html=True)
         
         if len(st.session_state.messages) == 0:
             st.markdown("""
