@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Quels sont vos horaires d'ouverture ?",
+      "reponse": "Nous sommes ouverts du lundi au vendredi de 9h à 18h.",
+      "tags": [
+        "horaires",
+        "contact",
+        "heures"
+      ]
+    },
+    {
+      "question": "Comment puis-je vous contacter ?",
+      "reponse": "Vous pouvez nous contacter par email à contact@entreprise.com ou par téléphone au 01 23 45 67 89.",
+      "tags": [
+        "contact",
+        "email",
+        "téléphone"
+      ]
+    },
+    {
+      "question": "Quels services proposez-vous ?",
+      "reponse": "Nous proposons du développement web, de l'intelligence artificielle et du consulting digital.",
+      "tags": [
+        "services",
+        "offre",
+        "produits"
+      ]
+    },
+    {
+      "question": "Acceptez-vous les cartes de crédit ?",
+      "reponse": "Oui, nous acceptons Visa, MasterCard et American Express.",
+      "tags": [
+        "paiement",
+        "carte",
+        "crédit"
+      ]
+    },
+    {
+      "question": "Proposez-vous des formations ?",
+      "reponse": "Oui, nous proposons des formations en ligne et en présentiel.",
+      "tags": [
+        "formations",
+        "cours",
+        "apprentissage"
+      ]
+    }
+  ]
+}
